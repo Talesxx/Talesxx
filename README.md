@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Talesxx
-- 目前阿里 外包 在职
 - 技术栈JavaScript vue3  react  electron
 - 开发淘宝visionPro Weex 前端开发
 - 整过一些c++
