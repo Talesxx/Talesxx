@@ -7,7 +7,6 @@
 - Email: talesxiaoxin@foxmail.com
 
 - 👋哈喽，我是 Talesxx
--  
 - 技术栈JavaScript vue3  react electron 
 - 开发淘宝visionPro Weex 前端开发
 - 月亮语音前端开发者
