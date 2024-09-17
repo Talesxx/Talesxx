@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @Talesxx
+👋 Hi, I'm Talesxx
+Tech Stack: JavaScript, Vue3, React, Electron
+Frontend Developer for Taobao VisionPro & Weex
+Frontend Developer at MoonVoice
+Involved Projects: 淘宝visionPro端 聊天   淘宝visionPro端小程序（su7 马吉拉 mac 美的）   微信咪咕企业直播小程序 等
+Contact Me:
+Email: talesxiaoxin@foxmail.com
+
+- 👋哈喽，我是 Talesxx
+-  
 - 技术栈JavaScript vue3  react electron 
 - 开发淘宝visionPro Weex 前端开发
 - 月亮语音前端开发者
 - 参与过的项目 淘宝visionPro端 聊天   淘宝visionPro端小程序（su7 马吉拉 mac 美的）   微信咪咕企业直播小程序 等
-- 联系我： 邮箱：talesxiaoxin@foxmail.com
+- 联系我：
+-  邮箱：talesxiaoxin@foxmail.com
 
  
 
